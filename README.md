@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Computer Science student from India specializing in cybersecurity, web development, and AI, with practical internship experience and a strong interest in building secure and scalable solutions.</h3>
 
 <img alingn="right" alt="Hacking" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<img alingn="right" alt="Hacking" width="400" src="image/picmix.com_2661501.gif"
+<img alingn="Left" alt="Hacking" width="400" src="https://github.com/aashishraazkumar/aashishraazkumar/blob/main/picmix.com_2661501.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishraazkumar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishraazkumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishraazkumar" alt="aashishraazkumar" /></a> </p>
