@@ -1,3 +1,5 @@
+
+![logo](https://github.com/aashishraazkumar/aashishraazkumar/blob/main/banner-of-hacker-and-data-icons-with-abstract-background-vector.jpg)
 <h1 align="center">Hi 👋, I'm Aashish kumar</h1>
 <h3 align="center">A passionate Computer Science student from India specializing in cybersecurity, web development, and AI, with practical internship experience and a strong interest in building secure and scalable solutions.</h3>
 
